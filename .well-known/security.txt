@@ -1,0 +1,4 @@
+Contact: mailto:ulrich@wisser.se
+Expires: 2099-12-31T00:23:59Z
+Canonical: https://wisser.se/.well-known/security.txt
+Preferred-Languages: en
